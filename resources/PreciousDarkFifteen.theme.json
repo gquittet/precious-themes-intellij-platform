@@ -689,7 +689,7 @@
       "pressedBackground": "#bab9b628",
       "runIconColor": "#598f46",
       "runningBackground": "#6c8a33",
-      "runningIconColor": "panel",
+      "runningIconColor": "#dfe1e5",
       "stopBackground": "#da6c67"
     },
     "ScrollBar": {
