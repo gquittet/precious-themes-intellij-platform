@@ -117,7 +117,7 @@
         "endBorderColor": "#60a0e0",
         "focusColor": "#35597f",
         "focusedBorderColor": "#3c5a79",
-        "foreground": "white",
+        "foreground": "#d1d1d1",
         "shadowColor": "#66676900",
         "startBackground": "#4f83b7",
         "startBorderColor": "#60a0e0"
